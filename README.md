@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
 - 🔭 I’m currently working on [Invoice Mangement Project](https://github.com/mossaab-zegaoui/Invoice-Management.git)
-- 🌱 I’m currently learning **Angular, Spring boot**
 
 - 📫 How to reach me **zegaouimossaab@gmail.com**
 
