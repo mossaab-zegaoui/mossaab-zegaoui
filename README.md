@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mossaab Zegaoui</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
-- 🔭 I am currently seeking job opportunities or an internship in the field of web development, with a desired start date of January 1st, 2024.
-
 - 📫 How to reach me **zegaouimossaab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
